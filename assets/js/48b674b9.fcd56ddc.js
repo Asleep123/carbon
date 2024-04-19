@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[597],{8392:e=>{e.exports=JSON.parse('{"badge":false,"banner":null,"className":"api-version-current","docs":{},"docsSidebars":{"api":[]},"isLast":true,"label":"Next","noIndex":false,"pluginId":"default","version":"current"}')}}]);
